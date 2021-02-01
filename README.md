@@ -28,8 +28,8 @@ object 데이터 다루기, 배열 관리 API와 Callback 함수의 개념을 �
 - Object는 key : value로 구성된다
 
   <br>
-  **_data.json 파일 안에는 items라는 배열이 들어 있고, 그 안에는 여러 item들이 들어있다_** <br>
-  **_data.json을 main.js에 동적으로 연결해줘야 적용된다_**
+  ***data.json 파일 안에는 items라는 배열이 들어 있고, 그 안에는 여러 item들이 들어있다*** <br>
+  ***data.json을 main.js에 동적으로 연결해줘야 적용된다***
 
 ## JS(JSON 동적 fetch 이후)까지 만들고 완성한 페이지
 
