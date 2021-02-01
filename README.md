@@ -2,6 +2,8 @@
 
 ### 최종 완성본 : https://whitejh.github.io/mini-shopping/. <br>
 
+http://127.0.0.1:5500/index.html
+
 ### 요약 <br>
 
 자바스크립트를 통해 JSON 데이터를 받아와 아이템 리스트를 동적으로 표시해주고,<br>
@@ -27,8 +29,8 @@ object 데이터 다루기, 배열 관리 API와 Callback 함수의 개념을 �
 - JSON = JavaScript Object Notation (Object와 유사)
 - Object는 key : value로 구성된다
 
-  data.json 파일 안에는 items라는 배열이 들어 있고, 그 안에는 여러 item들이 들어있다<br>
-  data.json을 main.js에 동적으로 연결해줘야 적용된다
+  **data.json 파일 안에는 items라는 배열이 들어 있고, 그 안에는 여러 item들이 들어있다**<br>
+  **data.json을 main.js에 동적으로 연결해줘야 적용된다**
 
 ## JS(JSON 동적 fetch 이후)까지 만들고 완성한 페이지
 
