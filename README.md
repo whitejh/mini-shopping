@@ -23,11 +23,11 @@ object 데이터 다루기, 배열 관리 API와 Callback 함수의 개념을 �
 - 동적인 페이지 구성할 때, HTML 안에 데이터와 HTML 요소(UI 적 요소)가 섞여 있는 것은 좋지 않다
 - 자바스크립트는 어플리케이션의 비즈니스 로직을 담당 (코드)
 - 데이터는 보통 자바스크립트가 아닌 곳에 보관 ex) backend, data file
-- 이 프로젝트는 백엔드가 없기 때문에 data.json 파일을 이용하고 동적으로 요소를 추가하여 데이터 보관
+- 이 프로젝트는 백엔드가 없어서 data.json 파일을 이용하고 동적으로 요소를 추가하여 데이터 보관
 - JSON = JavaScript Object Notation (Object와 유사)
 - Object는 key : value로 구성된다
 
-  <br><br>
+  <br>
   **_data.json 파일 안에는 items라는 배열이 들어 있고, 그 안에는 여러 item들이 들어있다_** <br>
   **_data.json을 main.js에 동적으로 연결해줘야 적용된다_**
 
