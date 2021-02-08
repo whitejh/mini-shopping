@@ -1,6 +1,6 @@
 # 미니 쇼핑몰 게임 만들기
 
-### 최종 완성본 : http://127.0.0.1:5500/index.html <br>
+### 최종 완성본 : https://whitejh.github.io/mini-shopping/l <br>
 
 ### 요약 <br>
 
